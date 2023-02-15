@@ -1,0 +1,2 @@
+#!/bin/bash
+cut -d : --output-delimiter=\n -f 1- $PATH
